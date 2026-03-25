@@ -24,14 +24,6 @@ Each problem includes:
 
 ---
 
-## 📈 Progress Tracker
-
-| Day | Problem | Category | Status |
-|-----|--------|----------|--------|
-| 1   | Two Sum | Arrays   | ✅ Completed |
-
----
-
 ## 🛠 Tech Stack
 
 - Python (Primary Language)
