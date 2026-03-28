@@ -1,7 +1,7 @@
 """
-Problem: Merge Sorted Array
+Problem: Duplicate Number
 Platform: LeetCode
-Link: https://leetcode.com/problems/merge-sorted-array/
+Link: https://leetcode.com/problems/contains-duplicate/
 
 Description:
 Given an integer array nums, return true if any value appears at least twice in the array, 
