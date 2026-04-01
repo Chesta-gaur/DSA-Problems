@@ -27,7 +27,7 @@ class Solution:
         return result
     
 obj = Solution()
-num1 = [1,2,2,3]
-num2 = [2,2]
-sol = obj.intersect(num1, num2)
+nums1 = [1,2,2,3]
+nums2 = [2,2]
+sol = obj.intersect(nums1, nums2)
 print(sol)
